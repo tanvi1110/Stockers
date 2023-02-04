@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+.navHeader {
+    display: flex;
+    justify-content:space-between ;
+    background: rgb(200, 105, 105);
+}
+
+.stockerLogo{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.about{
+    margin-right: 40px;
+    margin-top: 20px;
+}
+

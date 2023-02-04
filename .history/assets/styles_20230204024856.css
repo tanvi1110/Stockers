@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+.navHeader {
+    display: flex;
+    justify-content:space-between ;
+    background: rgb(255, 255, 255);
+}
+
+.stockerLogo{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.about{
+    margin-right: 40px;
+    margin-top: 20px;
+}
+
+
+
+
+/*center container */
+
+.centerContainer {
+    
+    background-image: linear-gradient(direction, color-stop1, color-stop2);
+    height: 100vh;
+}
